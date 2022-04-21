@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="teacher_card_margin_from_guideline">8dp</dimen>
+
+</resources>
